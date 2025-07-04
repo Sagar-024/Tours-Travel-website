@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+
+.font-dancing {
+  font-family: 'Dancing Script', cursive;
+}
+
+.font-matangi {
+  font-family: 'Matangi', sans-serif;
+}
+
+.font-orbitron {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.font-pacifico {
+  font-family: 'Pacifico', cursive;
+}
